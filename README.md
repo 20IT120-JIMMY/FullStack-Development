@@ -1,2 +1,9 @@
-# FullStack-Development
-experience with React , Spring Boot , Postman &amp; MySQL
+# Student-Database-Management-System-using-JAVA-Spring-Boot
+In this project, I have worked on a Database Management System of Student , Result & Course for Students using Spring Boot Web Platform.
+
+# Student Management System
+This system have following classes:
+
+1.StudentController.java
+2.Student.java
+3.StudentRepository.java
