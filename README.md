@@ -4,6 +4,6 @@ In this project, I have worked on a Database Management System of Student , Resu
 # Student Management System
 This system have following classes:
 
-list StudentController.java
-list Student.java
-list StudentRepository.java
+- StudentController.java
+- Student.java
+- StudentRepository.java
